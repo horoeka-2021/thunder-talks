@@ -51,7 +51,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - C#
 - PostgreSQL 
 - Python 
-- ~~Redux Toolkit
+- ~~Redux Toolkit~~
 
 ![](more-topic-prompts.png)
 
