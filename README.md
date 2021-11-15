@@ -46,7 +46,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - Functional programming
 - Go
 - React Native
-- ~~Artificial Intelligence
+- ~~Artificial Intelligence~~
 - CSS modules
 - C#
 - PostgreSQL 
