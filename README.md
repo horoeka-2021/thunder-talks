@@ -40,7 +40,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - GraphQL
 - Docker
 - Vue.js
-- AWS Lambda
+- ~~AWS Lambda~~
 - Ruby (on Rails)
 - TypeScript
 - Functional programming
@@ -66,7 +66,7 @@ Student    | Topic
 | Ben      |                  |                                        
 | Crystal  |                  |                    
 | Goretti  |Redux Toolkit     |                    
-| James    |                  |                    
+| James    | AWS Lambda       |                    
 | Joshua   |                  |                    
 | Julianne |    C#            |                    
 | Lauren   |Artificial Intelligence/ machine learning|                   
