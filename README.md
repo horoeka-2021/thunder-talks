@@ -70,12 +70,12 @@ Student    | Topic
 | Joshua   |                  |                    
 | Julianne |                  |                    
 | Lauren   |Artificial Intelligence/ machine learning|                   
-| Nathan   |  React Native    |                    
+| Nathan   |                  |                    
 | Nicky    |      PHP         |                  
 | Sean     |                  |                  
 | Seshan   |                  |                  
 | Tane     |                  |                  
-| Tommy    |                  |                  
+| Tommy    | Deployment to Heroku (with PostgreSQL) |                  
 | Troy     |                  |                 
 | Vimal    |                  |                 
 | Ying     |                  |                 
