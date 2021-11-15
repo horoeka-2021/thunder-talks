@@ -16,8 +16,7 @@ The lecture should:
  - clearly introduce the topic
  - talk us through the technology
  - include some live coding/demo
- - be approximately 20 minutes long, including questions (about 13-15 minutes of content)
-
+ - be approximately 5 - 10 minutes long
 
 ## Topics
 
