@@ -32,7 +32,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 
 - Swift
 - Firebase
-- PHP
+- ~~PHP~~
 - PWAs (Progressive Web Apps)
 - Continuous Integration
 - Java
@@ -71,7 +71,7 @@ Student    | Topic
 | Julianne |                  |                    
 | Lauren   |Artificial Intelligence/ machine learning|                   
 | Nathan   |                  |                    
-| Nicky    |                  |                  
+| Nicky    |      PHP         |                  
 | Sean     |                  |                  
 | Seshan   |                  |                  
 | Tane     |                  |                  
