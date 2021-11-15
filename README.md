@@ -31,8 +31,6 @@ It's important you choose a topic you're passionate about. Find something that r
 
 Here are some prompts for areas to explore. These are _not_ intended to be a restrictive/exhaustive list! Perhaps while searching for more on these topics, you'll uncover something else that excites you.
 
-*Note: Topics in bold are particularly useful from a career perspective.*
-
 - Swift
 - Firebase
 - PHP
