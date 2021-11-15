@@ -45,7 +45,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - TypeScript
 - Functional programming
 - Go
-- React Native
+- ~~React Native
 - ~~Artificial Intelligence~~
 - CSS modules
 - C#
