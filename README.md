@@ -70,7 +70,7 @@ Student    | Topic
 | Joshua   |                  |                    
 | Julianne |                  |                    
 | Lauren   |Artificial Intelligence/ machine learning|                   
-| Nathan   |                  |                    
+| Nathan   |  React Native    |                    
 | Nicky    |      PHP         |                  
 | Sean     |                  |                  
 | Seshan   |                  |                  
