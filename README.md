@@ -50,7 +50,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - CSS modules
 - C#
 - PostgreSQL 
-- Python 
+- ~~Python~~
 - ~~Redux Toolkit~~
 
 ![](more-topic-prompts.png)
@@ -77,6 +77,6 @@ Student    | Topic
 | Tane     |                  |                  
 | Tommy    | Deployment to Heroku (with PostgreSQL) |                  
 | Troy     |                  |                 
-| Vimal    |                  |                 
+| Vimal    |    Python              |                 
 | Ying     |                  |                 
 
