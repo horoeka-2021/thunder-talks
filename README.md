@@ -48,7 +48,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - ~~React Native~~
 - ~~Artificial Intelligence~~
 - CSS modules
-- C#
+- ~~C#~~
 - PostgreSQL 
 - ~~Python~~
 - ~~Redux Toolkit~~
@@ -68,7 +68,7 @@ Student    | Topic
 | Goretti  |Redux Toolkit     |                    
 | James    |                  |                    
 | Joshua   |                  |                    
-| Julianne |                  |                    
+| Julianne |    C#            |                    
 | Lauren   |Artificial Intelligence/ machine learning|                   
 | Nathan   |                  |                    
 | Nicky    |      PHP         |                  
@@ -77,6 +77,6 @@ Student    | Topic
 | Tane     |                  |                  
 | Tommy    | Deployment to Heroku (with PostgreSQL) |                  
 | Troy     |                  |                 
-| Vimal    |    Python              |                 
+| Vimal    |    Python        |                 
 | Ying     |                  |                 
 
