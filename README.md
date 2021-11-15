@@ -69,7 +69,7 @@ Student    | Topic
 | James    |                  |                    
 | Joshua   |                  |                    
 | Julianne |                  |                    
-| Lauren   |Artificial Intelligence |                   
+| Lauren   |Artificial Intelligence/ machine learning|                   
 | Nathan   |                  |                    
 | Nicky    |                  |                  
 | Sean     |                  |                  
