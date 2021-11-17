@@ -38,7 +38,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - Java
 - Angular
 - GraphQL
-~~Docker~~
+- ~~Docker~~
 - Vue.js
 - ~~AWS Lambda~~
 - Ruby (on Rails)
