@@ -42,7 +42,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - Vue.js
 - ~~AWS Lambda~~
 - Ruby (on Rails)
-- TypeScript
+------ TypeScript
 - Functional programming
 - Go
 - ~~React Native~~
@@ -63,7 +63,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 Student    | Topic
 -----------|-------------------
 | Angus    |                  |      
-| Ben      |                  |                                        
+| Ben      |      typescript  |                                        
 | Crystal  |    Docker              |                    
 | Goretti  |Redux Toolkit     |                    
 | James    | AWS Lambda       |                    
