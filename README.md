@@ -72,7 +72,7 @@ Student    | Topic
 | Lauren   |Artificial Intelligence/ machine learning|                   
 | Nathan   |                  |                    
 | Nicky    |      PHP         |                  
-| Sean     |                  |                  
+| Sean     |Continuous Integration|                  
 | Seshan   |                  |                  
 | Tane     |                  |                  
 | Tommy    | Deployment to Heroku (with PostgreSQL) |                  
