@@ -67,7 +67,7 @@ Student    | Topic
 | Crystal  |                  |                    
 | Goretti  |Redux Toolkit     |                    
 | James    | AWS Lambda       |                    
-| Joshua   |Phaser.js                  |                    
+| Joshua   |Unity                  |                    
 | Julianne |    C#            |                    
 | Lauren   |Artificial Intelligence/ machine learning|                   
 | Nathan   |                  |                    
