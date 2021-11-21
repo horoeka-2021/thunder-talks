@@ -43,7 +43,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - ~~AWS Lambda~~
 - Ruby (on Rails)
 - ~~TypeScript~~
-- Functional programming
+- ~~Functional programming~~
 - Go
 - React Native
 - ~~Artificial Intelligence~~
@@ -62,7 +62,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 
 Student    | Topic
 -----------|-------------------
-| Angus    |                  |      
+| Angus    | functional programming |
 | Ben      |      typescript  |                                        
 | Crystal  |    Docker              |                    
 | Goretti  |Redux Toolkit     |                    
