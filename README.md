@@ -78,5 +78,5 @@ Student    | Topic
 | Tommy    | Deployment to Heroku (with PostgreSQL) |                  
 | Troy     |                  |                 
 | Vimal    |    Python        |                 
-| Ying     |                  |                 
+| Ying     |    CSS modules   |                 
 
