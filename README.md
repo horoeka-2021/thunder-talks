@@ -74,7 +74,7 @@ Student    | Topic
 | Nicky    |      PHP         |                  
 | Sean     |Continuous Integration|                  
 | Seshan   |                  |                  
-| Tane     |                  |                  
+| Tane     | Digital Signatures |                  
 | Tommy    | Deployment to Heroku (with PostgreSQL) |                  
 | Troy     |                  |                 
 | Vimal    |    Python        |                 
