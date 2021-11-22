@@ -35,7 +35,7 @@ Here are some prompts for areas to explore. These are _not_ intended to be a res
 - ~~PHP~~
 - PWAs (Progressive Web Apps)
 - Continuous Integration
-- Java
+- ~~Java~~
 - Angular
 - GraphQL
 - ~~Docker~~
@@ -73,7 +73,7 @@ Student    | Topic
 | Nathan   |   Material-UI    |                    
 | Nicky    |      PHP         |                  
 | Sean     |Continuous Integration|                  
-| Seshan   |                  |                  
+| Seshan   |          JAVA        |                  
 | Tane     | Digital Signatures |                  
 | Tommy    | Deployment to Heroku (with PostgreSQL) |                  
 | Troy     |                  |                 
