@@ -71,7 +71,7 @@ Student    | Topic
 | Julianne |    C#            |                    
 | Lauren   |Artificial Intelligence/ machine learning|                   
 | Nathan   |   Material-UI    |                    
-| Nicky    |      PHP         |                  
+| Nicky    | Laravel (PHP Framework)  |                  
 | Sean     |Continuous Integration|                  
 | Seshan   |          JAVA        |                  
 | Tane     | Digital Signatures |                  
