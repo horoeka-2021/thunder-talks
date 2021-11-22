@@ -69,7 +69,7 @@ Student    | Topic
 | James    | AWS Lambda       |                    
 | Joshua   |Unity                  |                    
 | Julianne |    C#            |                    
-| Lauren   |Artificial Intelligence/ machine learning|                   
+| Lauren   |Artificial Intelligence|                   
 | Nathan   |   Material-UI    |                    
 | Nicky    | Laravel (PHP Framework)  |                  
 | Sean     |Continuous Integration|                  
