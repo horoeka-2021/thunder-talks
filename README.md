@@ -30,7 +30,7 @@ It's important you choose a topic you're passionate about. Find something that r
 
 Here are some prompts for areas to explore. These are _not_ intended to be a restrictive/exhaustive list! Perhaps while searching for more on these topics, you'll uncover something else that excites you.
 
-- Swift
+- ~~Swift~~
 - Firebase
 - ~~PHP~~
 - PWAs (Progressive Web Apps)
@@ -76,7 +76,7 @@ Student    | Topic
 | Seshan   |          JAVA        |                  
 | Tane     | Digital Signatures |                  
 | Tommy    | Deployment to Heroku (with PostgreSQL) |                  
-| Troy     |                  |                 
+| Troy     | ~~Swift~~ LisP   |                 
 | Vimal    |    Python        |                 
 | Ying     |    CSS modules   |                 
 
